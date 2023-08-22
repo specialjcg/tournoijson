@@ -1,0 +1,5 @@
+{
+  "team": "toto",
+  "poule": 16,
+  "is_removed": true
+}
